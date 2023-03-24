@@ -1,1 +1,1 @@
-This is a repository for the SFCC Stackla Page Designer Cartridge
+This is a repository for the SFCC Visual UGC Page Designer Cartridge
